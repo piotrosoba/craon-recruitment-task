@@ -1,0 +1,5 @@
+.add_task_form_root{
+  display: flex;
+  align-items: center;
+  max-width: 300px;
+}

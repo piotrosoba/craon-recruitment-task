@@ -1,0 +1,13 @@
+.tasks_root{
+  display: flex;
+  flex-direction: column;
+  gap:24px;
+  padding:24px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.tasks_actions{
+  display: flex;
+  justify-content: space-between;
+}

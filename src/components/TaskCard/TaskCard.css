@@ -1,0 +1,9 @@
+.task_card_root{
+  display: flex;
+  align-items: center;
+
+}
+
+.task_card_text{
+  flex-grow: 1;
+}
